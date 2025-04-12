@@ -1,3 +1,6 @@
+/*
+
+
 -------------------------------------------------------------------------------
 -- Arithmetic logic unit
 --
@@ -24,3 +27,8 @@ end entity;
 architecture arch of alu is
 begin
 end architecture;
+*/
+
+
+
+
